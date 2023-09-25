@@ -25,6 +25,11 @@ Description: Our work-in-progress design project aims to provide visually appeal
 
 Description: Simplify your account management tasks. This project will offer features to manage user accounts and permissions effectively.
 
+### PlatformCreators
+- Repository Link: [PlatformCreators](https://github.com/MichaelPlatform/PlatformCreators)
+
+Description: Empower content creators and influencers with tools and features to manage their brand, collaborations, and audience effectively.
+
 ### PlatformAutomation
 - Repository Link: [PlatformAutomation](https://github.com/MichaelPlatform/PlatformAutomation)
 

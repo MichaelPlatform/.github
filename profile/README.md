@@ -10,15 +10,10 @@ At MichaelPlatform, we focus on providing the tools and resources needed to main
 
 Explore our projects and repositories:
 
-### PlatformCollaboration
+### PlatformSpace
 - Repository Link: [PlatformCollaboration](https://github.com/MichaelPlatform/PlatformCollaboration)
 
-Description: Collaborate seamlessly with your team, partners, and clients. This project offers features for efficient teamwork and project management.
-
-### PlatformDesign (Not Finished)
-- Repository Link: [PlatformDesign](https://github.com/MichaelPlatform/PlatformDesign)
-
-Description: Our work-in-progress design project aims to provide visually appealing and user-friendly interfaces for your business applications.
+Description: Collaborate seamlessly with, Codespaces, Globalspaces, and Collaborationspaces all from your organization.
 
 ### PlatformAccounts (Not Finished)
 - Repository Link: [PlatformAccounts](https://github.com/MichaelPlatform/PlatformAccounts)
@@ -29,11 +24,6 @@ Description: Simplify your account management tasks. This project will offer fea
 - Repository Link: [PlatformCreators](https://github.com/MichaelPlatform/PlatformCreators)
 
 Description: Empower content creators and influencers with tools and features to manage their brand, collaborations, and audience effectively.
-
-### PlatformAutomation (Not Finished)
-- Repository Link: [PlatformAutomation](https://github.com/MichaelPlatform/PlatformAutomation)
-
-Description: Enhance productivity with automation tools. This project focuses on automating repetitive tasks to save you time and effort.
 
 ## Get Started
 

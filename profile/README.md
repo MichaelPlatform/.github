@@ -11,7 +11,7 @@ At MichaelPlatform, we focus on providing the tools and resources needed to main
 Explore our projects and repositories:
 
 ### PlatformSpace
-- Repository Link: [PlatformCollaboration](https://github.com/MichaelPlatform/PlatformCollaboration)
+- Repository Link: [PlatformSpace](https://github.com/MichaelPlatform/PlatformSpace)
 
 Description: Collaborate seamlessly with, Codespaces, Globalspaces, and Collaborationspaces all from your organization.
 
